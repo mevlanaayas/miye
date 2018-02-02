@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+geckodriver.log
+
+*.pyc
+env
+sendgrid.env
+celerybeat-schedule.db
+old.html
+temp.html
+
