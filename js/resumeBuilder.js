@@ -290,6 +290,78 @@ var projects = {
 };
 $("#creationsection").append(HTMLunderCreation);
 
+
+var upa = project_json_variable.unique_project_array;
+var current_date;
+
+function displayProjects(argument) {
+    for(var i = 0; i < upa.length; i++){
+        pub_date = upa[i]['publish_date']
+        console.log(i + " " + pub_date);
+        console.log(typeof(pub_date));
+        res = pub_date.split(" ")[0] + " " + pub_date.split(" ")[2]; //January 2018 something like this
+        if(i===0){
+            current_date = res;
+        }
+        if(res !== current_date){
+        	//append current date to html page
+        }
+        //dont append date to html page
+        //append upa[i] to html page
+        $("#timeline").append(HTMLTimelineItemCreator);
+
+    }
+}
+work.display = function() {
+    // body...
+    for (job in work.jobs) {
+        //create a new div for work experience
+        $("#workExperience").append(HTMLworkStart);
+        //cpncat employer and title
+        var formatedEmployer = HTMLworkEmployer.replace("%data%", work.jobs[job].employer);
+        var formattedTitle = HTMLworkTitle.replace("%data%", work.jobs[job].title);
+        var formattedEmployerTitle = formatedEmployer + formattedTitle;
+
+
+        if(counter > 0){
+            $(".work-entry:last").append("<hr>");
+        }
+
+        $(".work-entry:last").append(formattedEmployerTitle);
+
+        var formattedDates = HTMLworkDates.replace("%data%", work.jobs[job].dates);
+
+        $(".work-entry:last").append(formattedDates);
+
+        var formattedDescription = HTMLworkDescription.replace("%data%", work.jobs[job].describtion);
+
+        //$(".work-entry:last").append(formattedDescription); // burada olursa üstte gözükerek
+        //görüntüyü değiştiriyor.
+
+        var formattedLocation = HTMLworkLocation.replace("%data%", workLocations[job]);
+
+        $(".work-entry:last").append(formattedLocation);
+        $(".work-entry:last").append(formattedDescription);
+
+        var formatteddetail = HTMLworkDetail.replace("%data%", work.jobs[job].detail);
+        var formattedworkskill = HTMLworkSkill.replace("%data%", work.jobs[job].skills);
+        var formattedpoints = HTMLworkPoints.replace("%data%", work.jobs[job].points);
+        var formattedjobdone = HTMLworkJob.replace("%data%", work.jobs[job].jobdone);
+        var formattedworkWeb = HTMLworkWeb.replace("%data%", work.jobs[job].website);
+
+        $(".work-entry:last").append(formatteddetail);
+        $(".work-entry:last").append(formattedworkskill);
+        $(".work-entry:last").append(formattedpoints);
+        $(".work-entry:last").append(formattedjobdone);
+        $(".work-entry:last").append(formattedworkWeb);
+
+        counter++;
+    }
+};
+
+
+
+
 function displayBio(argument) {
 	// body...
 var formattedforeign = HTMLbioForeign.replace("%data%", bio.language);

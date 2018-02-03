@@ -37,6 +37,38 @@ var HTMLwelcomeMsg = '<span>%data%</span>';
 var HTMLskillsStart = '<h4>Skills at a Glance:</h4>';
 var HTMLskills = '<div style = "margin-top: 14px">%data%</div>';
 
+/*-----------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------*/
+var HTMLTimelineBreakpointCreator = '<li class="timeline-item period"><div class="timeline-info"></div><div class="timeline-marker"></div><div class="timeline-content"><h2 class="timeline-title">%data%</h2></div></li>';
+''
+var HTMLTimelineItemCreator = '<li class="timeline-item"></li>';
+var HTMLPublishedDate = '';
+var HTMLTimelineMarker = '';
+var HTMLContent = '';
+var HTMLProjectName = '';
+var HTMLModalLinkCreator = '';
+var HTMLProjectCover = '';
+var HTMLLike = '';
+var HTMLView = '';
+var HTMLDescription = '';
+var HTMLKeywords = '';
+var HTMLTools = '';
+var HTMLTags = '';
+
+var HTMLModalHolder = '<div id="ModalHolder"></div>';
+var HTMLModalCreator = '<div tabindex="-1" class="modal fade" id="%data%" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel"></div>';
+var HTMLModalDialogContent = '<div class="modal-dialog"><div class="modal-content" id="data"></div></div>';
+var HTMLModalImages = '<img class="card-image-modal" src="%data%" alt="%data%">';
+
+/*-----------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------*/
+/*-----------------------------------------------------------------------------------------*/
+
 var HTMLworkStart = '<div class="work-entry"></div>';
 var HTMLworkEmployer = '<p><a href="#">%data%';
 var HTMLworkTitle = ' - %data%</a></p>';

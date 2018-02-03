@@ -4,12 +4,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-geckodriver.log
-
-*.pyc
-env
-sendgrid.env
-celerybeat-schedule.db
+# temporary html files
 old.html
 temp.html
-
