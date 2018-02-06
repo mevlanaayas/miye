@@ -43,25 +43,26 @@ var HTMLskills = '<div style = "margin-top: 14px">%data%</div>';
 /*-----------------------------------------------------------------------------------------*/
 /*-----------------------------------------------------------------------------------------*/
 var HTMLTimelineBreakpointCreator = '<li class="timeline-item period"><div class="timeline-info"></div><div class="timeline-marker"></div><div class="timeline-content"><h2 class="timeline-title">%data%</h2></div></li>';
-''
+
 var HTMLTimelineItemCreator = '<li class="timeline-item"></li>';
-var HTMLPublishedDate = '';
-var HTMLTimelineMarker = '';
-var HTMLContent = '';
-var HTMLProjectName = '';
-var HTMLModalLinkCreator = '';
-var HTMLProjectCover = '';
-var HTMLLike = '';
-var HTMLView = '';
-var HTMLDescription = '';
-var HTMLKeywords = '';
-var HTMLTools = '';
-var HTMLTags = '';
+var HTMLPublishedDate = '<div class="timeline-info"><span>%data%</span></div>';
+var HTMLTimelineMarker = '<div class="timeline-marker"></div>';
+var HTMLContent = '<div class="timeline-content" id="%data%"></div>';
+var HTMLProjectName = '<h3 class="timeline-title">%data%</h3>';
+var HTMLModalLinkCreator = '<a data-target="#%data%" href="" data-toggle="modal" id="%data1%"></a>';
+var HTMLProjectCover = '<img class="card-image" src="%data%" alt="%data1%">';
+var HTMLProjectDetails = '<div class="project-details" id="%data%"></div>';
+var HTMLLike = '<div class="likes"><i class="thumbs up icon"></i>%data%</div>';
+var HTMLView = '<div class="views"><i class="unhide icon"></i>%data%</div>';
+var HTMLDescription = '<div class="description">%data%</div>';
+var HTMLKeywords = '<div class="keywords">%data%</div>';
+var HTMLTools = '<div class="tools">%data%</div>';
+var HTMLTags = '<div class="tags">%data%</div>';
 
 var HTMLModalHolder = '<div id="ModalHolder"></div>';
 var HTMLModalCreator = '<div tabindex="-1" class="modal fade" id="%data%" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel"></div>';
 var HTMLModalDialogContent = '<div class="modal-dialog"><div class="modal-content" id="data"></div></div>';
-var HTMLModalImages = '<img class="card-image-modal" src="%data%" alt="%data%">';
+var HTMLModalImages = '<img class="card-image-modal" src="%data%" alt="%data1%">';
 
 /*-----------------------------------------------------------------------------------------*/
 /*-----------------------------------------------------------------------------------------*/
@@ -80,18 +81,6 @@ var HTMLworkSkill = '<p>Worked On:<br>%data%</p>';
 var HTMLworkPoints = '<p>Internship Overall:<br>%data%</p>';
 var HTMLworkJob = '<p>JobDone:<br>%data%</p>';
 var HTMLworkWeb = '<a href="%data%" target="_blank"><i>WebPage</i></a>';
-
-var HTMLprojectStart = '<div class="project-entry eight wide column"></div>';
-var HTMLprojectTitle = '<p><a href="#">%data%</a></p>';
-var HTMLprojectDates = '<p>Dates: %data%</p>';
-var HTMLprojectDescription = '<p>Description: %data%</p>';
-var HTMLprojectSkills = '<p>Skill(s): %data%</p>';
-var HTMLprojectMember = '<p>Member: %data% <i class="user icon"></i></p>';
-var HTMLprojectMembers = '<p>Members: %data% <i class="users icon"></i></p>';
-var HTMLprojectFiles = '<p>Files: %data%</p>';
-var HTMLprojectLinks = '<p>Links: %data%</p>';
-var HTMLprojectType = '<p>Type: %data%</p>';
-var HTMLprojectImage = '<p>Image: %data%</p><br>';
 
 var HTMLDropdown = '<div id = "accordiontop" class= "ui basic accordion"></div>';
 

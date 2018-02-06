@@ -4,7 +4,7 @@ var project_json_variable = {
     'unique_project_array' : [
 
         {
-            'project_title' : 'TRASH-ISLES',
+            'project_title' : 'TRASH ISLES',
             'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/85c78f60933603.5a5e2c353e4f5.jpg',
             'publish_date' : 'January 16, 2018',
             'project_desc' : 'There is no given description.',
@@ -12,12 +12,12 @@ var project_json_variable = {
             'tags' : [],
             'tools' : [],
             'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/1400/85c78f60933603.5a5e2c353e4f5.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/41587c60933603.5a5e2c353ecb4.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/53d6e560933603.5a5e2c353f062.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/b6591e60933603.5a5e2c353f304.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/f0163360933603.5a5e2c353e9e4.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/60529a60933603.5a5e2c353dfd6.jpg'],
-            'view_count' : 11,
+            'view_count' : 14,
             'like_count' : 2
         },
 
         {
-            'project_title' : 'GAME-OF-THRONES',
+            'project_title' : 'GAME OF THRONES',
             'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/57a67160932229.5a5e2524e4659.jpg',
             'publish_date' : 'January 16, 2018',
             'project_desc' : 'There is no given description.',
@@ -25,12 +25,12 @@ var project_json_variable = {
             'tags' : [],
             'tools' : [],
             'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/57a67160932229.5a5e2524e4659.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a923ea60932229.5a5e2524e3f5e.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4aa7e960932229.5a5e2524e3b7a.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8b3ec160932229.5a5e2524e3442.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7cf8fd60932229.5a5e2524e304a.jpg'],
-            'view_count' : 11,
+            'view_count' : 14,
             'like_count' : 2
         },
 
         {
-            'project_title' : 'KUECUEK-AFACANLAR-)',
+            'project_title' : 'KÜÇÜK AFACANLAR =)',
             'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/3ef56459422633.5a215de6e8b8b.jpg',
             'publish_date' : 'December 1, 2017',
             'project_desc' : 'There is no given description.',
@@ -38,12 +38,12 @@ var project_json_variable = {
             'tags' : [],
             'tools' : [],
             'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/1400/3ef56459422633.5a215de6e8b8b.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/f41fc159422633.5a215de6e935f.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/abbc9f59422633.5a215de6e90c7.jpg'],
-            'view_count' : 40,
+            'view_count' : 43,
             'like_count' : 7
         },
 
         {
-            'project_title' : 'THE-NORT-REMEMBERS',
+            'project_title' : 'THE NORT REMEMBERS',
             'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be787859422347.5a215b7999c48.jpg',
             'publish_date' : 'December 1, 2017',
             'project_desc' : 'There is no given description.',
@@ -51,7 +51,7 @@ var project_json_variable = {
             'tags' : [],
             'tools' : [],
             'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be787859422347.5a215b7999c48.jpg'],
-            'view_count' : 39,
+            'view_count' : 41,
             'like_count' : 10
         },
 
@@ -68,6 +68,10 @@ var project_json_variable = {
             'like_count' : 'unique_like_count'
         },
         {'next_project':'next'}
+
+
+
+
     ]
 };
 var communication = {
@@ -183,186 +187,75 @@ var work = {
 	}
 	]
 };
-var projects = {
-	"myprojects" : [
-	{
-		"title":"Binary Multiplication",
-		"dates":"09/2015-10/2015",
-		"describtion":"Multiplication of binary numbers by using data structure of linked list. Project extends some sorting algorithm and it was written with C programming language.",
-		"skills" : "C Programming, Data Structures",
-		"members" : 1,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-
-	},
-	{
-		"title":"4D Tree",
-		"dates":"10/2015-11/2015",
-		"describtion":"Storing lots of personals data by using data structure of Multi dimension trees. Project extends some sorting algorithm and it was written with C programming language.",
-		"skills" : "C Programming, Data Structures",
-		"members" : 1,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-	},
-	{
-		"title":"Priority Queue",
-		"dates":"11/2015-12/2015",
-		"describtion":"Priority queue implementation by using data structure of binomial heap. Project extends some sorting algorithm and it was written with C programming language.",
-		"skills" : "C Programming, Data Structures",
-		"members" : 1,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-	},
-	{
-		"title":"Hare And Hound Strategy Game",
-		"dates":"02/2016-05/2016",
-		"describtion":"Implementation of Hare and Hounds game tha is playing on command line in our project. Project was developed with Assembly programming language",
-		"skills" : "Assembly Programming",
-		"members" : 1,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-	},
-	{
-		"title":"Bricker Puzzle Game",
-		"dates":"09/2016-10/2016",
-		"describtion":"Implementation of Bricker game tha is playing on command line in our project. Project is typpe of OOP software and it was written with Java programming language ",
-		"skills" : "Java Programming, Object Oriented Programming",
-		"members" : 1,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-	},
-	{
-		"title":"Linux Bash",
-		"dates":"10/2015-11/2015",
-		"describtion":"Implementation of Linux bash that do exactly same operations like original bash. Project was written by using C programming language and icnlude some advanced data structure",
-		"skills" : "C Programming, Shell Programming, Programming on UNIX",
-		"members" : 1,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-	},
-	{
-		"title":"Threads",
-		"dates":"11/2015-12/2015",
-		"describtion":"Implementation of threads that  are already working in our computers. Project was written on Linux operating system like previous bash project.",
-		"skills" : "C Programming, Operating Systems",
-		"members" : 1,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-	},
-	{
-		"title":"SQL",
-		"dates":"09/2016-12/2016",
-		"describtion":"Implementation of Sample database and MicrosoftSQL for the chosen company. The database was created and Some advanced SQL properties were used.",
-		"skills" : "Microsoft SQL, Java Programming",
-		"members" : 2,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-	},
-	{
-		"title":"CPU",
-		"dates":"09/2016-12/2016",
-		"describtion":"CPU and Storage design with Logism. CPU that do eleven operations and produce signals. Storage sotres data.",
-		"skills" : "Logism, Logic Design",
-		"members" : 3,
-		"files" : "none",
-		"links" : "none",
-		"type" : "Term Project",
-		"img" : "none"
-	}
-
-	]
-};
 $("#creationsection").append(HTMLunderCreation);
 
 
 var upa = project_json_variable.unique_project_array;
 var current_date;
 
-function displayProjects(argument) {
+function displayProjects() {
     for(var i = 0; i < upa.length; i++){
-        pub_date = upa[i]['publish_date']
-        console.log(i + " " + pub_date);
-        console.log(typeof(pub_date));
-        res = pub_date.split(" ")[0] + " " + pub_date.split(" ")[2]; //January 2018 something like this
-        if(i===0){
-            current_date = res;
+    	if(upa[i]['project_title']!=="unique_project_name"){
+			var pub_date = upa[i]['publish_date'];
+			var project_name = upa[i]['project_title'];
+			var cover_image = upa[i]['poster_image'];
+			var likes = upa[i]['like_count'];
+			var views = upa[i]['view_count'];
+			var desc = upa[i]['project_desc'];
+			var keys = upa[i]['keywords'];
+			var tags = upa[i]['tags'];
+			var tools = upa[i]['tools'];
+			var content_id = "project" + i;
+			var content_id_html = "#" + content_id;
+			var project_detail_id = "project" + i + "detail";
+			var project_detail_id_html = "#" + project_detail_id;
+			var modal_address = "project" + i + "modal";
+			var modal_link = i + "modal";
+			var modal_link_id = "#" + i + "modal";
+			var res = pub_date.split(" ")[0] + " " + pub_date.split(" ")[2]; //January 2018 something like this
+            var FormattedHTMLPublishedDate = HTMLPublishedDate.replace("%data%", pub_date);
+            var FormattedHTMLTimelineMarker = HTMLTimelineMarker;
+            var FormattedHTMLContent = HTMLContent.replace("%data%", content_id);
+            var FormattedHTMLProjectName = HTMLProjectName.replace("%data%", project_name);
+            var FormattedHTMLModalLinkCreator = HTMLModalLinkCreator.replace("%data%", modal_address);
+            FormattedHTMLModalLinkCreator = FormattedHTMLModalLinkCreator.replace("%data1%", modal_link);
+            var FormattedHTMLProjectCover = HTMLProjectCover.replace("%data%", cover_image);
+            FormattedHTMLProjectCover = FormattedHTMLProjectCover.replace("%data1%", project_name);
+			var FormattedHTMLProjectDetails = HTMLProjectDetails.replace("%data%", project_detail_id);
+            var FormattedHTMLLike = HTMLLike.replace("%data%", likes);
+            var FormattedHTMLView = HTMLView.replace("%data%", views);
+            var FormattedHTMLDescription = HTMLDescription.replace("%data%", desc);
+            var FormattedHTMLKeywords = HTMLKeywords.replace("%data%", keys);
+            var FormattedHTMLTools = HTMLTools.replace("%data%", tools);
+            var FormattedHTMLTags = HTMLTags.replace("%data%", tags);
+			if(i===0){
+				current_date = res;
+			}
+			var query_selector = "#timeline:last";
+			if(res !== current_date || i === 0){
+				var FormattedHTMLTimelineBreakpointCreator = HTMLTimelineBreakpointCreator.replace("%data%", res);
+				$(query_selector).append(FormattedHTMLTimelineBreakpointCreator);
+				current_date = res;
+			}
+			$(query_selector).append(HTMLTimelineItemCreator);
+			query_selector = ".timeline-item:last";
+			$(query_selector).append(FormattedHTMLPublishedDate);
+			$(query_selector).append(FormattedHTMLTimelineMarker);
+			$(query_selector).append(FormattedHTMLContent);
+			$(content_id_html).append(FormattedHTMLProjectName);
+			$(content_id_html).append(FormattedHTMLModalLinkCreator);
+			$(modal_link_id).append(FormattedHTMLProjectCover);
+			$(content_id_html).append(FormattedHTMLProjectDetails);
+			$(project_detail_id_html).append(FormattedHTMLDescription);
+			$(project_detail_id_html).append(FormattedHTMLView);
+			$(project_detail_id_html).append(FormattedHTMLLike);
+			$(project_detail_id_html).append(FormattedHTMLKeywords);
+			$(project_detail_id_html).append(FormattedHTMLTools);
+			$(project_detail_id_html).append(FormattedHTMLTags);
         }
-        if(res !== current_date){
-        	//append current date to html page
-        }
-        //dont append date to html page
-        //append upa[i] to html page
-        $("#timeline").append(HTMLTimelineItemCreator);
-
     }
 }
-work.display = function() {
-    // body...
-    for (job in work.jobs) {
-        //create a new div for work experience
-        $("#workExperience").append(HTMLworkStart);
-        //cpncat employer and title
-        var formatedEmployer = HTMLworkEmployer.replace("%data%", work.jobs[job].employer);
-        var formattedTitle = HTMLworkTitle.replace("%data%", work.jobs[job].title);
-        var formattedEmployerTitle = formatedEmployer + formattedTitle;
-
-
-        if(counter > 0){
-            $(".work-entry:last").append("<hr>");
-        }
-
-        $(".work-entry:last").append(formattedEmployerTitle);
-
-        var formattedDates = HTMLworkDates.replace("%data%", work.jobs[job].dates);
-
-        $(".work-entry:last").append(formattedDates);
-
-        var formattedDescription = HTMLworkDescription.replace("%data%", work.jobs[job].describtion);
-
-        //$(".work-entry:last").append(formattedDescription); // burada olursa üstte gözükerek
-        //görüntüyü değiştiriyor.
-
-        var formattedLocation = HTMLworkLocation.replace("%data%", workLocations[job]);
-
-        $(".work-entry:last").append(formattedLocation);
-        $(".work-entry:last").append(formattedDescription);
-
-        var formatteddetail = HTMLworkDetail.replace("%data%", work.jobs[job].detail);
-        var formattedworkskill = HTMLworkSkill.replace("%data%", work.jobs[job].skills);
-        var formattedpoints = HTMLworkPoints.replace("%data%", work.jobs[job].points);
-        var formattedjobdone = HTMLworkJob.replace("%data%", work.jobs[job].jobdone);
-        var formattedworkWeb = HTMLworkWeb.replace("%data%", work.jobs[job].website);
-
-        $(".work-entry:last").append(formatteddetail);
-        $(".work-entry:last").append(formattedworkskill);
-        $(".work-entry:last").append(formattedpoints);
-        $(".work-entry:last").append(formattedjobdone);
-        $(".work-entry:last").append(formattedworkWeb);
-
-        counter++;
-    }
-};
-
-
-
-
-function displayBio(argument) {
+function displayBio() {
 	// body...
 var formattedforeign = HTMLbioForeign.replace("%data%", bio.language);
 var formattedHome = HTMLbioHome.replace("%data%", bio.hometown);
@@ -455,58 +348,6 @@ work.display = function() {
 		counter++;
 	}   
 };
-
-projects.display = function() {
-	// body...
-
-	for (project in projects.myprojects){
-		//create a new div for projects
-		$("#projects").append(HTMLprojectStart);
-
-
-		var formattedprojectTitle = HTMLprojectTitle.replace("%data%", projects.myprojects[project].title);
-		var formattedprojectDate = HTMLprojectDates.replace("%data%", projects.myprojects[project].dates);
-		var formattedprojectDesc = HTMLprojectDescription.replace("%data%", projects.myprojects[project].describtion);
-		var formattedprojectSkills = HTMLprojectSkills.replace("%data%", projects.myprojects[project].skills);
-
-		if(projects.myprojects[project].members > 1){
-			var formattedprojectMember = HTMLprojectMembers.replace("%data%", projects.myprojects[project].members);
-		}else{
-			var formattedprojectMember = HTMLprojectMember.replace("%data%", projects.myprojects[project].members);
-		}
-		var formattedprojectFiles = HTMLprojectFiles.replace("%data%", projects.myprojects[project].files);
-		var formattedprojectLinks = HTMLprojectLinks.replace("%data%", projects.myprojects[project].links);
-		var formattedprojectType = HTMLprojectType.replace("%data%", projects.myprojects[project].type);
-		var formattedprojectImage = HTMLprojectImage.replace("%data%", projects.myprojects[project].img);
-
-
-		if(counter > 1){
-			$(".project-entry:last").append("<hr>");
-		}
-
-		$(".project-entry:last").append(formattedprojectTitle);
- 		
-		$(".project-entry:last").append(formattedprojectDate);
-
-		$(".project-entry:last").append(formattedprojectDesc);
-
-		$(".project-entry:last").append(formattedprojectSkills);
- 		
-		$(".project-entry:last").append(formattedprojectMember);
-
-		$(".project-entry:last").append(formattedprojectFiles);
-
-		$(".project-entry:last").append(formattedprojectLinks);
- 		
-		$(".project-entry:last").append(formattedprojectType);
-
-		$(".project-entry:last").append(formattedprojectImage);
-
-		counter++;
-	}
-
-};
-counter = 0;
 
 educations.display = function() {
 	// body...
@@ -691,8 +532,6 @@ communication.display = function () {
 }
 
 counter = 0;
-projects.display();
-counter = 0;
 displayBio();
 counter = 0;
 communication.display();
@@ -700,3 +539,5 @@ counter = 0;
 work.display();
 counter = 0;
 educations.display();
+
+displayProjects();
