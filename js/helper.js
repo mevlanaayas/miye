@@ -42,6 +42,10 @@ var HTMLskills = '<div style = "margin-top: 14px">%data%</div>';
 /*-----------------------------------------------------------------------------------------*/
 /*-----------------------------------------------------------------------------------------*/
 /*-----------------------------------------------------------------------------------------*/
+var HTMLContactMenu = '<a data-target="#contactmodal" href="" data-toggle="modal"><div class="col-md-4 example-title"><h2>Contact</h2></div></a>';
+var HTMLAboutMeMenu = '<a data-target="#aboutmemodal" href="" data-toggle="modal"><div class="col-md-4 example-title"><h2>About Me</h2></div></a>';
+var HTMLProjectsMenu = '<div class="col-md-4 example-title"><h2>Projects</h2></div>';
+
 var HTMLTimelineBreakpointCreator = '<li class="timeline-item period"><div class="timeline-info"></div><div class="timeline-marker"></div><div class="timeline-content"><h2 class="timeline-title">%data%</h2></div></li>';
 
 var HTMLTimelineItemCreator = '<li class="timeline-item"></li>';
@@ -50,7 +54,7 @@ var HTMLTimelineMarker = '<div class="timeline-marker"></div>';
 var HTMLContent = '<div class="timeline-content" id="%data%"></div>';
 var HTMLProjectName = '<h3 class="timeline-title">%data%</h3>';
 var HTMLModalLinkCreator = '<a data-target="#%data%" href="" data-toggle="modal" id="%data1%"></a>';
-var HTMLProjectCover = '<img class="card-image" src="%data%" alt="%data1%">';
+var HTMLProjectCover = '<img class="card-image img-responsive" src="%data%" alt="%data1%">';
 var HTMLProjectDetails = '<div class="project-details" id="%data%"></div>';
 var HTMLLike = '<div class="likes"><i class="thumbs up icon"></i>%data%</div>';
 var HTMLView = '<div class="views"><i class="unhide icon"></i>%data%</div>';
@@ -155,6 +159,7 @@ function logClicks(x,y) {
       y: y
     }
   );
+  console.log($(window).width());
   console.log('x location: ' + x + '; y location: ' + y);
 }
 

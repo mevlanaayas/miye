@@ -190,6 +190,22 @@ var work = {
 $("#creationsection").append(HTMLunderCreation);
 
 
+function displayMenu() {
+    var tab_menu_one = "#tab_one";
+    var tab_menu_two = "#tab_two";
+    var tab_menu_three = "#tab_three";
+    if ($(window).width() <= 991) {
+        $(tab_menu_one).append(HTMLAboutMeMenu);
+        $(tab_menu_two).append(HTMLContactMenu);
+        $(tab_menu_three).append(HTMLProjectsMenu);
+    }else{
+        $(tab_menu_one).append(HTMLAboutMeMenu);
+        $(tab_menu_two).append(HTMLProjectsMenu);
+        $(tab_menu_three).append(HTMLContactMenu);
+    }
+}
+
+
 var upa = project_json_variable.unique_project_array;
 var current_date;
 
@@ -540,4 +556,5 @@ work.display();
 counter = 0;
 educations.display();
 
+displayMenu();
 displayProjects();
