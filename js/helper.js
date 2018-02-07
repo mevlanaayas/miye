@@ -48,7 +48,8 @@ var HTMLProjectsMenu = '<div class="col-md-4 example-title"><h2>Projects</h2></d
 
 var HTMLTimelineBreakpointCreator = '<li class="timeline-item period"><div class="timeline-info"></div><div class="timeline-marker"></div><div class="timeline-content"><h2 class="timeline-title">%data%</h2></div></li>';
 
-var HTMLTimelineItemCreator = '<li class="timeline-item"></li>';
+var HTMLTimelineItemCreatorLeft = '<li class="timeline-item timeline-item-left"></li>';
+var HTMLTimelineItemCreatorRight = '<li class="timeline-item timeline-item-right"></li>';
 var HTMLPublishedDate = '<div class="timeline-info"><span>%data%</span></div>';
 var HTMLTimelineMarker = '<div class="timeline-marker"></div>';
 var HTMLContent = '<div class="timeline-content" id="%data%"></div>';

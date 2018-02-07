@@ -41,9 +41,6 @@ a:hover {
 .container-fluid .row {
   padding: 0 0 4em 0;
 }
-.container-fluid .row:nth-child(even) {
-  background: #F1F4F5;
-}
 
 .example-title {
   text-align: center;
@@ -234,26 +231,6 @@ a:hover {
   .timeline-centered .timeline-content {
     width: 50%;
   }
-  .timeline-centered > .timeline-item:nth-child(odd) .timeline-info {
-    float: left;
-    text-align: right;
-    padding-right: 30px;
-  }
-  .timeline-centered > .timeline-item:nth-child(odd) .timeline-content {
-    float: right;
-    text-align: left;
-    padding-left: 30px;
-  }
-  .timeline-centered > .timeline-item:nth-child(even) .timeline-info {
-    float: right;
-    text-align: left;
-    padding-left: 30px;
-  }
-  .timeline-centered > .timeline-item:nth-child(even) .timeline-content {
-    float: left;
-    text-align: right;
-    padding-right: 30px;
-  }
   .timeline-centered > .timeline-item.period .timeline-content {
     float: none;
     padding: 0;
@@ -298,4 +275,24 @@ a:hover {
 }
 .modal-title {
   float: left;
+}
+.timeline-centered > .timeline-item-left .timeline-info {
+  float: left;
+  text-align: right;
+  padding-right: 30px;
+}
+.timeline-centered > .timeline-item-left .timeline-content {
+  float: right;
+  text-align: left;
+  padding-left: 30px;
+}
+.timeline-centered > .timeline-item-right .timeline-info {
+  float: right;
+  text-align: left;
+  padding-left: 30px;
+}
+.timeline-centered > .timeline-item-right .timeline-content {
+  float: left;
+  text-align: right;
+  padding-right: 30px;
 }

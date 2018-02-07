@@ -253,7 +253,11 @@ function displayProjects() {
 				$(query_selector).append(FormattedHTMLTimelineBreakpointCreator);
 				current_date = res;
 			}
-			$(query_selector).append(HTMLTimelineItemCreator);
+			if(isEven(i)){
+                $(query_selector).append(HTMLTimelineItemCreatorRight);
+			}else{
+                $(query_selector).append(HTMLTimelineItemCreatorLeft);
+            }
 			query_selector = ".timeline-item:last";
 			$(query_selector).append(FormattedHTMLPublishedDate);
 			$(query_selector).append(FormattedHTMLTimelineMarker);
@@ -545,6 +549,10 @@ communication.display = function () {
 	$(".connect-entry:last").append(formattedtwitter);
 	$(".connect-entry:last").append(formattedgithub);
 	$(".connect-entry:last").append(formattedlocation);
+}
+
+function isEven(n) {
+    return n % 2 === 0;
 }
 
 counter = 0;
