@@ -226,6 +226,11 @@ function displayProjects() {
 			var project_detail_id = "project" + i + "detail";
 			var project_detail_id_html = "#" + project_detail_id;
 			var modal_address = "project" + i + "modal";
+			var modal_address_html = "#project" + i + "modal";
+			var modal_address_dialog = "project" + i + "modaldialog";
+			var modal_address_dialog_html = "#project" + i + "modaldialog";
+			var modal_address_content = "project" + i + "modalcontent";
+			var modal_address_content_html = " #project" + i + "modalcontent";
 			var modal_link = i + "modal";
 			var modal_link_id = "#" + i + "modal";
 			var res = pub_date.split(" ")[0] + " " + pub_date.split(" ")[2]; //January 2018 something like this
@@ -244,6 +249,10 @@ function displayProjects() {
             var FormattedHTMLKeywords = HTMLKeywords.replace("%data%", keys);
             var FormattedHTMLTools = HTMLTools.replace("%data%", tools);
             var FormattedHTMLTags = HTMLTags.replace("%data%", tags);
+            var FormattedHTMLModalCreator = HTMLModalCreator.replace("%data%", modal_address);
+            var FormattedHTMLModalDialog = HTMLModalDialog.replace("%data%", modal_address_dialog);
+            var FormattedHTMLModalHeader = HTMLModalHeader.replace("%data%", project_name);
+            var FormattedHTMLModalContent = HTMLModalContent.replace("%data%", modal_address_content);
 			if(i===0){
 				current_date = res;
 			}
@@ -272,6 +281,20 @@ function displayProjects() {
 			$(project_detail_id_html).append(FormattedHTMLKeywords);
 			$(project_detail_id_html).append(FormattedHTMLTools);
 			$(project_detail_id_html).append(FormattedHTMLTags);
+			$("#ModalHolder").append(FormattedHTMLModalCreator);
+			$(modal_address_html).append(FormattedHTMLModalDialog);
+			$(modal_address_dialog_html).append(FormattedHTMLModalHeader);
+			$(modal_address_dialog_html).append(FormattedHTMLModalContent);
+
+
+			var images = upa[i]['all_images_links'];
+			for(var j = 0; j < images.length; j++){
+				var FormattedHTMLModalImages = HTMLModalImages.replace("%data%", images[j]);
+				$(modal_address_content_html).append(FormattedHTMLModalImages);
+			}
+            $(modal_address_dialog_html).append(HTMLModalFooter);
+
+
         }
     }
 }

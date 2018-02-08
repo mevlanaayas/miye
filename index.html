@@ -48,104 +48,89 @@
     <button id="button2"> button 2</button>
 </footer>
 <!-- Modals -->
-<div tabindex="-1" class="modal fade bs-example-modal-lg " id="project0modal" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
-    <div class="modal-dialog modal-lg">
-        <div class="modal-header">
-            <h1 class="modal-title" id="exampleModalLongTitle">Project 1</h1>
-            <button type="button" class="btn btn-secondary" style="float: right" data-dismiss="modal">Close</button>
-        </div>
-        <div class="modal-content">
-            <img class="card-image-modal" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a923ea60932229.5a5e2524e3f5e.jpg" alt="Card image cap">
-            <img class="card-image-modal" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/57a67160932229.5a5e2524e4659.jpg" alt="Card image cap">
-            <img class="card-image-modal" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4aa7e960932229.5a5e2524e3b7a.jpg" alt="Card image cap">
-            <img class="card-image-modal" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8b3ec160932229.5a5e2524e3442.jpg" alt="Card image cap">
-            <img class="card-image-modal" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7cf8fd60932229.5a5e2524e304a.jpg" alt="Card image cap">
-        </div><!-- /.modal-content -->
-        <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-<div class="modal fade bs-example-modal-lg" id="contactmodal" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="gridSystemModalLabel">Modal title</h4>
-            </div>
-            <div class="modal-body">
-                <div class="row">
-                    <div class="col-md-4">.col-md-4</div>
-                    <div class="col-md-4 col-md-offset-4">.col-md-4 .col-md-offset-4</div>
+<div id="ModalHolder">
+    <div class="modal fade bs-example-modal-lg" id="contactmodal" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="gridSystemModalLabel">Modal title</h4>
                 </div>
-                <div class="row">
-                    <div class="col-md-3 col-md-offset-3">.col-md-3 .col-md-offset-3</div>
-                    <div class="col-md-2 col-md-offset-4">.col-md-2 .col-md-offset-4</div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-md-offset-3">.col-md-6 .col-md-offset-3</div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-9">
-                        Level 1: .col-sm-9
-                        <div class="row">
-                            <div class="col-xs-8 col-sm-6">
-                                Level 2: .col-xs-8 .col-sm-6
-                            </div>
-                            <div class="col-xs-4 col-sm-6">
-                                Level 2: .col-xs-4 .col-sm-6
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4">.col-md-4</div>
+                        <div class="col-md-4 col-md-offset-4">.col-md-4 .col-md-offset-4</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-md-offset-3">.col-md-3 .col-md-offset-3</div>
+                        <div class="col-md-2 col-md-offset-4">.col-md-2 .col-md-offset-4</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">.col-md-6 .col-md-offset-3</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-9">
+                            Level 1: .col-sm-9
+                            <div class="row">
+                                <div class="col-xs-8 col-sm-6">
+                                    Level 2: .col-xs-8 .col-sm-6
+                                </div>
+                                <div class="col-xs-4 col-sm-6">
+                                    Level 2: .col-xs-4 .col-sm-6
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
-            </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-<div class="modal fade bs-example-modal-lg" id="aboutmemodal" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="gridSystemModalLabel1">Modal title</h4>
-            </div>
-            <div class="modal-body">
-                <div class="row">
-                    <div class="col-md-4">.col-md-4</div>
-                    <div class="col-md-4 col-md-offset-4">.col-md-4 .col-md-offset-4</div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
                 </div>
-                <div class="row">
-                    <div class="col-md-3 col-md-offset-3">.col-md-3 .col-md-offset-3</div>
-                    <div class="col-md-2 col-md-offset-4">.col-md-2 .col-md-offset-4</div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal fade bs-example-modal-lg" id="aboutmemodal" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="gridSystemModalLabel1">Modal title</h4>
                 </div>
-                <div class="row">
-                    <div class="col-md-6 col-md-offset-3">.col-md-6 .col-md-offset-3</div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-9">
-                        Level 1: .col-sm-9
-                        <div class="row">
-                            <div class="col-xs-8 col-sm-6">
-                                Level 2: .col-xs-8 .col-sm-6
-                            </div>
-                            <div class="col-xs-4 col-sm-6">
-                                Level 2: .col-xs-4 .col-sm-6
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-4">.col-md-4</div>
+                        <div class="col-md-4 col-md-offset-4">.col-md-4 .col-md-offset-4</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-md-offset-3">.col-md-3 .col-md-offset-3</div>
+                        <div class="col-md-2 col-md-offset-4">.col-md-2 .col-md-offset-4</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">.col-md-6 .col-md-offset-3</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-9">
+                            Level 1: .col-sm-9
+                            <div class="row">
+                                <div class="col-xs-8 col-sm-6">
+                                    Level 2: .col-xs-8 .col-sm-6
+                                </div>
+                                <div class="col-xs-4 col-sm-6">
+                                    Level 2: .col-xs-4 .col-sm-6
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
-            </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+</div>
+
 <!-- Script file importing -->
 <script src="js/jQuery.js"></script>
 <script src="js/helper.js"></script>

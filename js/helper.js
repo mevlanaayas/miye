@@ -64,10 +64,13 @@ var HTMLKeywords = '<div class="keywords">%data%</div>';
 var HTMLTools = '<div class="tools">%data%</div>';
 var HTMLTags = '<div class="tags">%data%</div>';
 
-var HTMLModalHolder = '<div id="ModalHolder"></div>';
-var HTMLModalCreator = '<div tabindex="-1" class="modal fade" id="%data%" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel"></div>';
-var HTMLModalDialogContent = '<div class="modal-dialog"><div class="modal-content" id="data"></div></div>';
-var HTMLModalImages = '<img class="card-image-modal" src="%data%" alt="%data1%">';
+
+var HTMLModalCreator = '<div tabindex="-1" class="modal fade bs-example-modal-lg" id="%data%" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel"></div>';
+var HTMLModalDialog = '<div class="modal-dialog modal-lg" id="%data%"></div>';
+var HTMLModalHeader = '<div class="modal-header"><h1 class="modal-title" id="exampleModalLongTitle">"%data%"</h1><button type="button" class="btn btn-secondary" style="float: right" data-dismiss="modal">Close</button></div>';
+var HTMLModalContent = '<div class="modal-content" id="%data%"></div>';
+var HTMLModalFooter = '<div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button></div>';
+var HTMLModalImages = '<img class="card-image-modal" src="%data%">';
 
 /*-----------------------------------------------------------------------------------------*/
 /*-----------------------------------------------------------------------------------------*/
