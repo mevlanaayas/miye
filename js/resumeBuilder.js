@@ -4,55 +4,172 @@ var project_json_variable = {
     'unique_project_array' : [
 
         {
-            'project_title' : 'TRASH ISLES',
-            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/85c78f60933603.5a5e2c353e4f5.jpg',
-            'publish_date' : 'January 16, 2018',
-            'project_desc' : 'There is no given description.',
-            'keywords' : ['Graphic Design'],
-            'tags' : [],
-            'tools' : [],
-            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/1400/85c78f60933603.5a5e2c353e4f5.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/41587c60933603.5a5e2c353ecb4.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/53d6e560933603.5a5e2c353f062.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/b6591e60933603.5a5e2c353f304.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/f0163360933603.5a5e2c353e9e4.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/60529a60933603.5a5e2c353dfd6.jpg'],
-            'view_count' : 14,
+            'project_title' : 'illustration (digital)',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1f6be861560477.5a723d13dcc1c.jpg',
+            'publish_date' : 'February 1, 2018',
+            'project_desc' : 'illustration, drawing, dijital illustration, flowers, çizim, illüstrasyon, karakter tasarımı , character design',
+            'keywords' : ['Illustration', 'Character Design', 'Digital Art'],
+            'tags' : ['CHARACTER DESIGN', 'ILLUSTRATION', 'DIJITAL ILLUSTRATION', 'FLOWERS', 'DRAWING', 'ÇIZIM', 'KARAKTER TASARIMI', 'ILLUSTRASYON', 'GRAPHIC'],
+            'tools' : ['Adobe Illustrator'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1f6be861560477.5a723d13dcc1c.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/3000b961560477.5a723d13de0f0.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/80cbd161560477.5a723d13dd415.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9c0b7e61560477.5a723d13dda29.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0ba35061560477.5a723d13dd0c2.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cdd7b261560477.5a723d13dd70f.png'],
+            'view_count' : 21,
             'like_count' : 2
         },
 
         {
-            'project_title' : 'GAME OF THRONES',
-            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/57a67160932229.5a5e2524e4659.jpg',
-            'publish_date' : 'January 16, 2018',
-            'project_desc' : 'There is no given description.',
-            'keywords' : ['Illustration', 'Graphic Design', 'Film'],
-            'tags' : [],
-            'tools' : [],
-            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/57a67160932229.5a5e2524e4659.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a923ea60932229.5a5e2524e3f5e.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4aa7e960932229.5a5e2524e3b7a.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8b3ec160932229.5a5e2524e3442.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7cf8fd60932229.5a5e2524e304a.jpg'],
-            'view_count' : 14,
+            'project_title' : 'cd cover design',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c32b7961552407.5a720f2854f94.png',
+            'publish_date' : 'January 31, 2018',
+            'project_desc' : 'cd, cd cover design, cover design, music, grapgic design',
+            'keywords' : ['Graphic Design', 'Music', 'Editorial Design'],
+            'tags' : ['CD', 'MUSIC', 'COVER DESIGN', 'GRAPGIC DESIGN', 'CD COVER DESIGN', 'KAPAK TASARIMI', 'MUZIK'],
+            'tools' : ['Adobe Illustrator'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c32b7961552407.5a720f2854f94.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eb954361552407.5a720f2854a4b.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e473da61552407.5a720f28545a2.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/73aea161552407.5a720f2854297.png'],
+            'view_count' : 24,
             'like_count' : 2
         },
 
         {
-            'project_title' : 'KÜÇÜK AFACANLAR =)',
-            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/3ef56459422633.5a215de6e8b8b.jpg',
-            'publish_date' : 'December 1, 2017',
-            'project_desc' : 'There is no given description.',
-            'keywords' : ['Illustration', 'Graphic Design', 'Character Design'],
-            'tags' : [],
-            'tools' : [],
-            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/1400/3ef56459422633.5a215de6e8b8b.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/f41fc159422633.5a215de6e935f.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/abbc9f59422633.5a215de6e90c7.jpg'],
-            'view_count' : 43,
+            'project_title' : 'cover design',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b454fa61509883.5a70df812f5ec.png',
+            'publish_date' : 'January 30, 2018',
+            'project_desc' : 'book cover design, cover design , graphic design',
+            'keywords' : ['Graphic Design', 'Editorial Design', 'Illustration'],
+            'tags' : ['BOOK COVER DESIGN', 'COVER DESIGN', 'GRAPHIC DESIGN', 'ILLUSTRATION', 'BOOK COVER', 'GRAPHIC'],
+            'tools' : ['Adobe Illustrator'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b454fa61509883.5a70df812f5ec.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/293b9861509883.5a70df812fd60.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eb2f8061509883.5a70df81300e1.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/05edbd61509883.5a70df812f2f9.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0a6bce61509883.5a70df812edcd.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9d07fb61509883.5a70df812f8d2.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/40a46561509883.5a70df813046b.png'],
+            'view_count' : 33,
+            'like_count' : 4
+        },
+
+        {
+            'project_title' : 'portrait',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/83804e61447639.5a6f42555b859.png',
+            'publish_date' : 'January 29, 2018',
+            'project_desc' : 'portrait, charcoal, çizim, drawing, illüstration, portre, karakalem',
+            'keywords' : ['Illustration', 'Drawing', 'Fine Arts'],
+            'tags' : ['PORTRAIT', 'CHARCOAL', 'ÇIZIM', 'DRAWING', 'ILLUSTRATION', 'PORTRE', 'KARAKALEM'],
+            'tools' : [''],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/83804e61447639.5a6f42555b859.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bd39661447639.5a6f42555bbb0.png'],
+            'view_count' : 19,
+            'like_count' : 1
+        },
+
+        {
+            'project_title' : 'WATERCOLOR AND CRAYONS F L O W E R S',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3fec4f61447091.5a6f3f3c6f61a.png',
+            'publish_date' : 'January 29, 2018',
+            'project_desc' : 'crayons, watercolor, color, çizim, illüstrasyon, illüstration, flowers illüstration, portrait, obje, doğa',
+            'keywords' : ['Illustration', 'Painting', 'Drawing'],
+            'tags' : ['FLOWERS', 'WATERCOLOR', 'CRAYONS', 'ÇIZIM', 'ILLUSTRASYON', 'DOGA', 'FLOWERS ILLUSTRATION', 'COLORS', 'PORTRAIT', 'DRAWING'],
+            'tools' : [''],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3fec4f61447091.5a6f3f3c6f61a.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/92bd5861447091.5a6f3f3c6f21f.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e6fdc761447091.5a6f3f3c6ef1f.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3e7aaf61447091.5a7c6dc7798dd.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5f1dd461447091.5a7c6dc779501.png'],
+            'view_count' : 28,
+            'like_count' : 4
+        },
+
+        {
+            'project_title' : 'theater posters C R A F T',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17056c61445919.5a6f383c3d636.png',
+            'publish_date' : 'January 29, 2018',
+            'project_desc' : 'theater posters, poster, illüstration, afiş, ilüstrasyon, poster design, grafik tasarım, graphıc design',
+            'keywords' : ['Graphic Design', 'Performing Arts', 'Illustration'],
+            'tags' : ['THEATER POSTERS', 'ILLUSTRATION', 'AFIŞ', 'POSTER DESIGN', 'DESIGN', 'GRAPHIC DESIGN', 'GRAFIK TASARIM'],
+            'tools' : ['Adobe Illustrator'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/17056c61445919.5a6f383c3d636.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1fec7361445919.5a6f383c3de23.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7486eb61445919.5a6f383c3f09e.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c6cc4a61445919.5a6f383c421f1.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a288f761445919.5a6f383c3db58.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d20961445919.5a6f383c42ef0.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/21f8df61445919.5a6f383c3fd8c.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/849c7361445919.5a6f383c40290.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/19c83561445919.5a6f383c40fac.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b40fbc61445919.5a6f383c3e529.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6a388461445919.5a6f383c4497e.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/530a4461445919.5a6f383c44f31.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/67869061445919.5a6f383c44013.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9cd5cf61445919.5a6f383c3fad5.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4dda061445919.5a6f383c4278b.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/09817361445919.5a6f383c41c8f.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f12e261445919.5a6f383c43a6f.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7c5bd461445919.5a6f383c3e8e9.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c7814b61445919.5a6f383c434d4.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dd561161445919.5a6f383c3e0d2.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8f72ab61445919.5a6f383c443ae.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/63d21661445919.5a6f383c3eb86.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3b5efe61445919.5a6f383c42b81.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bc9e7861445919.5a6f383c4079b.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e9a86561445919.5a6f383c3f5c7.png'],
+            'view_count' : 61,
+            'like_count' : 9
+        },
+
+        {
+            'project_title' : 'childrens book illustrations',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4bd7f961418107.5a6e3ef5b47c6.png',
+            'publish_date' : 'January 29, 2018',
+            'project_desc' : 'childrens book illustrations book illüstration illüstration',
+            'keywords' : ['Illustration', 'Character Design', 'Drawing'],
+            'tags' : ['ILLUSTRATION', 'BOOK', "CHILDREN'S BOOK ILLUSTRATIONS", 'BOOK ILLUSTRATIONS', 'ÇIZIM', 'DIGITAL DRAWING'],
+            'tools' : ['Adobe Photoshop'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4bd7f961418107.5a6e3ef5b47c6.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ddd18d61418107.5a6e3ef5b4e43.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a849861418107.5a6e3ef5b443e.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e88edf61418107.5a6e3ef5b4a41.png'],
+            'view_count' : 25,
+            'like_count' : 1
+        },
+
+        {
+            'project_title' : 'DHARMA GOTHIC font card design',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3885bf61417423.5a6e3b63664f7.png',
+            'publish_date' : 'January 29, 2018',
+            'project_desc' : 'typography design, graphic design, font card design',
+            'keywords' : ['Graphic Design', 'Branding', 'Typography'],
+            'tags' : ['FONT CARD DESIGN', 'FONT', 'TYPOGRAPHY', 'DESIGN', 'FONT CARD', 'CARD', 'GRAPHIC'],
+            'tools' : ['Adobe InDesign'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3885bf61417423.5a6e3b63664f7.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9b791f61417423.5a6e3b63667cd.png'],
+            'view_count' : 26,
+            'like_count' : 3
+        },
+
+        {
+            'project_title' : 'O T A C I packaging design',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/7954e161417055.5a6e372dde86a.png',
+            'publish_date' : 'January 28, 2018',
+            'project_desc' : 'packaging design, handling, graphic design',
+            'keywords' : ['Graphic Design', 'Packaging', 'Illustration'],
+            'tags' : ['PACKAGING DESIGN', 'HANDLING', 'SHAMPOO', 'SOAP', 'ILLUSTRATION', 'FLOWER', 'FLOWER ILLUSTRATION', 'GRAPHIC DESIGN', 'LOGO'],
+            'tools' : ['Adobe Photoshop'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/1400/7954e161417055.5a6e372dde86a.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/abc66361417055.5a6e372de4133.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4f1b3e61417055.5a6e372de108c.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6bcfda61417055.5a6e372de2c01.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ee431c61417055.5a6e372de0e2a.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f591f261417055.5a6e372de1523.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0d02ae61417055.5a6e372de044e.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c28bc61417055.5a6e372de392c.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e1649b61417055.5a6e372de354e.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/2f933a61417055.5a6e372de23d4.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4f3a8161417055.5a6e372ddf01e.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/efc61761417055.5a6e372de0bbd.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/02cc2261417055.5a6e372de3148.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5f7ef361417055.5a6e372de2124.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/0a5e2e61417055.5a6e372de27b4.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/322dc761417055.5a6e372ddfe63.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/823b6661417055.5a6e372ddec7e.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/8298ac61417055.5a6e372de1b11.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/1c05b861417055.5a6e372de0821.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/4609de61417055.5a6e372ddf580.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/db978a61417055.5a6e372de1821.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9842db61417055.5a6e372ddf9ee.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2185ff61417055.5a6e372de3cdf.png'],
+            'view_count' : 37,
+            'like_count' : 1
+        },
+
+        {
+            'project_title' : 'interview page design Laura Pergolızzı',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/caf8f061415783.5a6e2d1aa3d1a.jpg',
+            'publish_date' : 'January 28, 2018',
+            'project_desc' : 'interview page design, typographic illustration, typographic design',
+            'keywords' : ['Graphic Design', 'Typography', 'Print Design'],
+            'tags' : ['DESIGN', 'TYPOGRAPHIC', 'PAGE DESIGN', 'INTERVIEW PAGE', 'TYPOGRAPHIC ILLUSTRATION'],
+            'tools' : ['Adobe InDesign'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/1400/caf8f061415783.5a6e2d1aa3d1a.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/83f05e61415783.5a6e2d1aa37ce.jpg'],
+            'view_count' : 45,
+            'like_count' : 4
+        },
+
+        {
+            'project_title' : 'type radio poster desing',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/712dc560448459.5a4d61570de08.jpg',
+            'publish_date' : 'January 4, 2018',
+            'project_desc' : 'posterdesign',
+            'keywords' : ['Graphic Design', 'Illustration', 'Exhibition Design'],
+            'tags' : ['POSTER POSTERDESIGN', 'AFIŞ', 'DESIGN'],
+            'tools' : ['Adobe Illustrator'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/1400/712dc560448459.5a4d61570de08.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/110a3d60448459.5a4d61570e1f0.jpg'],
+            'view_count' : 49,
             'like_count' : 7
         },
 
         {
-            'project_title' : 'THE NORT REMEMBERS',
-            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be787859422347.5a215b7999c48.jpg',
-            'publish_date' : 'December 1, 2017',
-            'project_desc' : 'There is no given description.',
-            'keywords' : ['Graphic Design', 'Illustration', 'Drawing'],
-            'tags' : [],
-            'tools' : [],
-            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be787859422347.5a215b7999c48.jpg'],
-            'view_count' : 41,
+            'project_title' : 'book cover design',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/452d7160010871.5a3843181b6ed.jpg',
+            'publish_date' : 'December 19, 2017',
+            'project_desc' : 'notos yayınları kitap kapağı tasarımı projesi',
+            'keywords' : ['Graphic Design', 'Illustration', 'Photography'],
+            'tags' : ['BOOK DESIGN', 'BOOK', 'DESIGN', 'YAYIN', 'BOOK DESIGN', 'COVER DESIGN', 'BROADCAST DESIGN'],
+            'tools' : ['Adobe Photoshop'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/1400/452d7160010871.5a3843181b6ed.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/52c54560010871.5a3843181d026.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/ad5c0a60010871.5a3843181c0d0.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/f0a98e60010871.5a3843181e91b.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/09c26c60010871.5a3843181d61b.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/e4a9c160010871.5a3843181ed3a.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/ef12b760010871.5a3843181ca96.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/41c65e60010871.5a3843181c5a8.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/28a80260010871.5a3843181bc74.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/74782d60010871.5a3843181e1f4.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/3f35e660010871.5a3843181e521.jpg', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/05e6db60010871.5a3843181dbce.jpg'],
+            'view_count' : 72,
             'like_count' : 10
+        },
+
+        {
+            'project_title' : 'LIPS',
+            'poster_image' : 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa9a9259242661.5a1b447b87a40.png',
+            'publish_date' : 'November 27, 2017',
+            'project_desc' : 'There is no given description.',
+            'keywords' : ['Illustration'],
+            'tags' : [],
+            'tools' : ['Adobe Illustrator'],
+            'all_images_links' : ['https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa9a9259242661.5a1b447b87a40.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3a7be459242661.5a1b447b87f73.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/77d8fb59242661.5a1b447b87cf0.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/1400/91e6c059242661.5a1b447b8702e.png', 'https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9c676859242661.5a1b447b87534.png'],
+            'view_count' : 23,
+            'like_count' : 1
         },
 
         {
@@ -68,127 +185,23 @@ var project_json_variable = {
             'like_count' : 'unique_like_count'
         },
         {'next_project':'next'}
-
-
-
-
     ]
 };
 var communication = {
-	"email" : "mevlanaayas@gmail.com",
-	"github" : "github.com/mevlanaayas",
-	"twitter" : "twitter.com/alimetifarika",
-	"location" : "Kadıköy-İstanbul",
-	"school": "Marmara University"
+    "email" : "ummiyemazlum@gmail.com",
+    "location" : "İstanbul",
+    "school": "Mimar Sinan Fine Arts University",
+	"behance": "https://www.behance.net/miye",
+	"instagram": "https://www.instagram.com/miyemzlm/"
 };
 var bio= {
-	"name": "Mevlana Ayas",
-	"role": "Computer Engineer",
-	"hometown": "Kosk/Aydin",
-	"language": "English",
-	"image": "images/img.jpg",
-	"welcomeMessage": "Welcome, here I am! All jobs are listed below thats were done by Mevlana. If you want help, please dont hesitate to ask me!",
-	"skills": {
-		"C": 4,
-		"Java": 3,
-		"JavaScript": 4,
-		"HTML/CSS": 4,
-		"Python": 2,
-		"Reliability": 5,
-		"MicrosoftSQL": 3
-	}
+    "name": "Ümmiye Mazlum",
+    "role": "Graphic Designer",
+    "hometown": "Trabzon",
+    "language": "English",
+	"welcome": "Welcome!",
+	"img": "none"
 };
-var educations = {
-	"schools": [{
-			"name": "Marmara University",
-			"city": "Istanbul",
-			"degree": "Bachelor",
-			"major": "CSE-Computer Science Engineering",
-			"entryyear": 2013,
-			"website": "marmarauniversity.com",
-			"location": "Kadikoy/Istanbul",
-			"curriculum": "http://dosya.marmara.edu.tr/eng/cse/2013/belgeler/mufredat/CSE_Curriculum_2013_and_later.pdf"
-
-		}, {
-			"name": "Kasustu CPL",
-			"city": "Trabzon",
-			"degree": "Highschool",
-			"major": "Math Science",
-			"entryyear": 2009,
-			"website": "kasustucpl.com",
-			"location": "Yomra/Trabzon",
-			"curriculum": "None"
-		}
-
-	],
-	"onlinecourses": [{
-		"title": "none 1",
-		"author": "Udacity",
-		"dates": "2017",
-		"skills": "none",
-		"url": "udacity.com",
-		"learnings": "none"
-	}],
-	"seminars": [{
-		"title": "none 1",
-		"place": "none",
-		"guest": "none",
-		"dates": "none",
-		"guesttitle": "none",
-		"learnings": "none"
-
-	}, {
-		"title": "none 2",
-		"place": "none",
-		"guest": "none",
-		"dates": "none",
-		"guesttitle": "none",
-		"learnings": "none"
-
-
-	}],
-	"activities": [{
-		"title": "none 1",
-		"place": "none",
-		"dates": "none",
-		"days": "none",
-		"skills": "none",
-		"learnings": "none",
-		"certificate": "true",
-		"files": "none",
-		"links": "none"
-
-	}, {
-		"title": "none 2",
-		"place": "none",
-		"dates": "none",
-		"days": "none",
-		"skills": "none",
-		"learnings": "none",
-		"certificate": "true",
-		"files": "none",
-		"links": "none"
-	}]
-
-};
-var work = {
-	"jobs" : [
-	{
-		"employer":"VB-AP",
-		"location":"Bursa",
-		"title":"Intern",
-		"dates":"06/2016-08/2016",
-		"describtion":"I had an internship at VB-AP that works on ERP and SAP.",
-		"detail" : "Here, there is no detail about my Internship adventure.",
-		"skills" : "HTML/CSS-JavaScript",
-		"points" : 4.7,
-		"jobdone" : "Have Worked on Official Web Site",
-		"website" : "http://www.v-bap.com/vbap2/"
-	}
-	]
-};
-$("#creationsection").append(HTMLunderCreation);
-
 
 function displayMenu() {
     var tab_menu_one = "#tab_one";
@@ -205,13 +218,12 @@ function displayMenu() {
     }
 }
 
-
 var upa = project_json_variable.unique_project_array;
 var current_date;
 
 function displayProjects() {
     for(var i = 0; i < upa.length; i++){
-    	if(upa[i]['project_title']!=="unique_project_name"){
+    	if(upa[i]['project_title']!=="unique_project_name" && upa[i]['project_title'] !==undefined){
 			var pub_date = upa[i]['publish_date'];
 			var project_name = upa[i]['project_title'];
 			var cover_image = upa[i]['poster_image'];
@@ -286,7 +298,6 @@ function displayProjects() {
 			$(modal_address_dialog_html).append(FormattedHTMLModalHeader);
 			$(modal_address_dialog_html).append(FormattedHTMLModalContent);
 
-
 			var images = upa[i]['all_images_links'];
 			for(var j = 0; j < images.length; j++){
 				var FormattedHTMLModalImages = HTMLModalImages.replace("%data%", images[j]);
@@ -294,283 +305,50 @@ function displayProjects() {
 			}
             $(modal_address_dialog_html).append(HTMLModalFooter);
 
-
         }
     }
 }
 function displayBio() {
 	// body...
-var formattedforeign = HTMLbioForeign.replace("%data%", bio.language);
-var formattedHome = HTMLbioHome.replace("%data%", bio.hometown);
-var formattedName = HTMLheaderName.replace("%data%", bio.name);
-var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
-var formattedWelcome = HTMLwelcomeMsg.replace("%data%", bio.welcomeMessage);
+	var formattedforeign = HTMLbioForeign.replace("%data%", bio.language);
+	var formattedHome = HTMLbioHome.replace("%data%", bio.hometown);
+	var formattedName = HTMLheaderName.replace("%data%", bio.name);
+	var formattedRole = HTMLheaderRole.replace("%data%", bio.role);
+	var formattedWelcome = HTMLwelcomeMsg.replace("%data%", bio.welcomeMessage);
 
+	$("#nameid").append(formattedName);
+	$("#role").append(formattedRole);
+	$("#welcomeMssg").append(formattedWelcome);
 
- $("#nameid").append(formattedName);
- $("#role").append(formattedRole);
- $("#welcomeMssg").append(formattedWelcome);
+	$("#welcomeMssg").append(HTMLBiosDropdown);
+	$("#biotop").append(HTMLBios);
+	$("#biotop").append(HTMLbioContent);
 
- $("#welcomeMssg").append(HTMLBiosDropdown);
- $("#biotop").append(HTMLBios);
- $("#biotop").append(HTMLbioContent);
+	$("#biocontent").append(formattedHome);
+	$("#biocontent").append(formattedforeign);
 
- $("#biocontent").append(formattedHome); 
- $("#biocontent").append(formattedforeign); 
+	var formattedimg = HTMLbioPic.replace("%data%", bio.image);
+	$("#pp").append(formattedimg);
 
-var formattedimg = HTMLbioPic.replace("%data%", bio.image);
- $("#pp").append(formattedimg);
-
-$("#skillsgeneric").append(HTMLskillsStart); 
-for(skill in bio.skills){
-	var formattedSkill = HTMLskills.replace("%data%",skill);
-	$("#skillsdiv").append(formattedSkill);
-	for(var i = 0; i<bio.skills[skill];i++){
-		$("#skillsdiv").append('<i class="star yellow icon"></i>');
-	}
-}
-}
-
-function locationizer(work_obj) {
-	// body...
-	var locationArray = [];
-
-	for(job in work_obj.jobs){
-		var newLocation = work_obj.jobs[job].location;
-		locationArray.push(newLocation);
-	}
-	return locationArray;
-}
-var workLocations = [];
-workLocations = locationizer(work);
-
-
-work.display = function() {
-	// body...
-		for (job in work.jobs) {
-		//create a new div for work experience
-		$("#workExperience").append(HTMLworkStart);
-		//cpncat employer and title
-		var formatedEmployer = HTMLworkEmployer.replace("%data%", work.jobs[job].employer);
-		var formattedTitle = HTMLworkTitle.replace("%data%", work.jobs[job].title);
-		var formattedEmployerTitle = formatedEmployer + formattedTitle;
-
-
-		if(counter > 0){
-			$(".work-entry:last").append("<hr>");
-		}
-		
-		$(".work-entry:last").append(formattedEmployerTitle);
-
-		var formattedDates = HTMLworkDates.replace("%data%", work.jobs[job].dates);
-
-		$(".work-entry:last").append(formattedDates);
-
-		var formattedDescription = HTMLworkDescription.replace("%data%", work.jobs[job].describtion);
-
-		//$(".work-entry:last").append(formattedDescription); // burada olursa üstte gözükerek 
-		//görüntüyü değiştiriyor.
-
-		var formattedLocation = HTMLworkLocation.replace("%data%", workLocations[job]);
-
-		$(".work-entry:last").append(formattedLocation);
-		$(".work-entry:last").append(formattedDescription);
-
-		var formatteddetail = HTMLworkDetail.replace("%data%", work.jobs[job].detail);
-		var formattedworkskill = HTMLworkSkill.replace("%data%", work.jobs[job].skills);
-		var formattedpoints = HTMLworkPoints.replace("%data%", work.jobs[job].points);
-		var formattedjobdone = HTMLworkJob.replace("%data%", work.jobs[job].jobdone);
-		var formattedworkWeb = HTMLworkWeb.replace("%data%", work.jobs[job].website);
-
-		$(".work-entry:last").append(formatteddetail);
-		$(".work-entry:last").append(formattedworkskill);
-		$(".work-entry:last").append(formattedpoints);
-		$(".work-entry:last").append(formattedjobdone);
-		$(".work-entry:last").append(formattedworkWeb);
-
-		counter++;
-	}   
-};
-
-educations.display = function() {
-	// body...
-
-	$("#education").append(HTMLDropdown);
-	$("#accordiontop").append(HTMLSchools);
-	$("#accordiontop").append(HTMLschoolContent);	
-	
-	for (school in educations.schools){
-		//create a new div for projects
-
-		$("#schoolcontent").append(HTMLschoolStart);
-	    var formattededucationTitle = HTMLschoolName.replace("%data%", educations.schools[school].name);
-		var formattededucationMajor = HTMLschoolMajor.replace("%data%", educations.schools[school].major);
-		var formattededucationDegree = HTMLschoolDegree.replace("%data%", educations.schools[school].degree);
-		var formattededucationLocation = HTMLschoolLocation.replace("%data%", educations.schools[school].city);
-		var formattededucationDate = HTMLschoolDates.replace("%data%", educations.schools[school].entryyear);
-		var formattedCurriculum = 	HTMLschoolCurriculum.replace("%data%", educations.schools[school].curriculum);
-
-		if(counter > 0){
-			$(".education-entry:last").append("<hr>");
-		}else{
-			
-		}
-		$(".education-entry:last").append(formattededucationTitle + " " + formattededucationDegree);
- 		
-		$(".education-entry:last").append(formattededucationDate);
-
-		$(".education-entry:last").append(formattededucationMajor);
-
-		$(".education-entry:last").append(formattededucationLocation);
-
-		$(".education-entry:last").append(formattedCurriculum);
-
-		counter++;
-	}
-	counter = 0;
-	
-	$(".education-entry:last").append("<br><br><br>");
-
-	$("#education").append(HTMLDropdown);
-	$("#accordiontop").append(HTMLOnlines);
-	$("#accordiontop").append(HTMLonlineContent);	
-
-	for (onlinecourse in educations.onlinecourses){
-		//create a new div for projects
-		$("#onlinecontent").append(HTMLonlineStart);
-		
-
-		var formattedonlineTitle = HTMLonlineTitle.replace("%data%", educations.onlinecourses[onlinecourse].title);
-		var formattedonlineAuthor = HTMLonlineAuthor.replace("%data%", educations.onlinecourses[onlinecourse].author);
-		var formattedonlineDates = HTMLonlineDates.replace("%data%", educations.onlinecourses[onlinecourse].date);
-		var formattedonlineSkills = HTMLonlineSkills.replace("%data%", educations.onlinecourses[onlinecourse].skills);
-		var formattedonlineUrl = HTMLonlineURL.replace("%data%", educations.onlinecourses[onlinecourse].url);
-		var formattedonlineLearning = 	HTMLonlineLearning.replace("%data%", educations.onlinecourses[onlinecourse].learnings);
-
-		if(counter > 0){
-			$(".education-entry:last").append("<hr>");
-		}
-		
-
-		$(".education-entry:last").append(formattedonlineTitle + " " + formattedonlineAuthor);
- 		
-		$(".education-entry:last").append(formattedonlineDates);
-
-		$(".education-entry:last").append(formattedonlineSkills);
-
-		$(".education-entry:last").append(formattedonlineUrl);
-
-		$(".education-entry:last").append(formattedonlineLearning);
-
-		counter++;
-	}
-	counter = 0;
-
-	$(".education-entry:last").append("<br><br><br>");
-
-	$("#education").append(HTMLDropdown);
-	$("#accordiontop").append(HTMLSeminars);
-	$("#accordiontop").append(HTMLseminarContent);	
-
-	for (seminar in educations.seminars){
-		//create a new div for projects
-		$("#seminarcontent").append(HTMLseminarStart);
-		
-		var formattedseminarTitle = HTMLseminarTitle.replace("%data%", educations.seminars[seminar].title);
-		var formattedseminarAuthor = HTMLseminarGuest.replace("%data%", educations.seminars[seminar].guest);
-		var formattedseminarDates = HTMLseminarDates.replace("%data%", educations.seminars[seminar].dates);
-		var formattedseminarGTitle = HTMLseminarGTitle.replace("%data%", educations.seminars[seminar].guesttitle);
-		var formattedseminareLearning = HTMLseminarLearning.replace("%data%", educations.seminars[seminar].learnings);
-		var formattedseminarPlaces = HTMLseminarPlaces.replace("%data%", educations.seminars[seminar].place);
-
-		if(counter > 0){
-			$(".education-entry:last").append("<hr>");
-		}
-
-
-		$(".education-entry:last").append(formattedseminarAuthor + " " + formattedseminarGTitle);
- 		
-		$(".education-entry:last").append(formattedseminarTitle);
-
-		$(".education-entry:last").append(formattedseminarDates);
-
-		$(".education-entry:last").append(formattedseminarPlaces);
-
-		$(".education-entry:last").append(formattedseminareLearning);
-
-		counter++;
-	}
-	counter = 0;
-
-	$(".education-entry:last").append("<br><br><br>");
-
-	$("#education").append(HTMLDropdown);
-	$("#accordiontop").append(HTMLActivity);
-	$("#accordiontop").append(HTMLactivityContent);
-
-	for (activity in educations.activities){
-		//create a new div for projects
-		$("#activitycontent").append(HTMLactivityStart);
-		
-		var formattedactivityTitle = HTMLactivityTitle.replace("%data%", educations.activities[activity].title);
-		var formattedactivityDates = HTMLactivityDates.replace("%data%", educations.activities[activity].dates);
-		var formattedactivityDays = HTMLactivityDays.replace("%data%", educations.activities[activity].days);
-		var formattedactivitySkills = HTMLactivitySkills.replace("%data%", educations.activities[activity].skills);
-		var formattedactivityLearning = HTMLactivityLearnings.replace("%data%", educations.activities[activity].learnings);
-		var formattedactivityCertificate = HTMLactivityCertificate.replace("%data%", educations.activities[activity].certificate);
-		var formattedactivityFiles = HTMLactivityFiles.replace("%data%", educations.activities[activity].files);
-		var formattedactivityLinks = HTMLactivityLinks.replace("%data%", educations.activities[activity].links);
-		var formattedactivityPlaces = HTMLactivityPlaces.replace("%data%", educations.activities[activity].place);
-
-		if(counter > 0){
-			$(".education-entry:last").append("<hr>");
-		}
-
-
-		$(".education-entry:last").append(formattedactivityTitle);
- 		
-		$(".education-entry:last").append(formattedactivityDates);
-
-		$(".education-entry:last").append(formattedactivityDays);
-
-		$(".education-entry:last").append(formattedactivitySkills);
-
-		$(".education-entry:last").append(formattedactivityLearning);
-
-		$(".education-entry:last").append(formattedactivityCertificate);
-
-		$(".education-entry:last").append(formattedactivityFiles);
-
-		$(".education-entry:last").append(formattedactivityLinks);
-
-		$(".education-entry:last").append(formattedactivityPlaces);
-
-
-
-
-		counter++;
-	}
-	counter = 0;
-		
 }
 
 communication.display = function () {
 	// body...
 
 	var formattedemail =  HTMLemail.replace("%color%", contactlinecolor);
-	var formattedtwitter = HTMLtwitter.replace("%color%", contactlinecolor);
-	var formattedgithub = HTMLgithub.replace("%color%", contactlinecolor);
+	var formattedinstagram = HTMLinstagram.replace("%color%", contactlinecolor);
+	var formattedbehance = HTMLbehance.replace("%color%", contactlinecolor);
 	var formattedlocation = HTMLlocation.replace("%color%", contactlinecolor);
 
-	var formattedemail =  formattedemail.replace("%data%", communication.email);
-	var formattedtwitter = formattedtwitter.replace("%data%", communication.twitter);
-	var formattedgithub = formattedgithub.replace("%data%", communication.github);
-	var formattedlocation = formattedlocation.replace("%data%", communication.location);
+	formattedemail =  formattedemail.replace("%data%", communication.email);
+	formattedbehance = formattedbehance.replace("%data%", communication.behance);
+	formattedinstagram = formattedinstagram.replace("%data%", communication.instagram);
+	formattedlocation = formattedlocation.replace("%data%", communication.location);
 
 	$("#connect").append(HTMLconnectStart);
 	$(".connect-entry:last").append(formattedemail);
-	$(".connect-entry:last").append(formattedtwitter);
-	$(".connect-entry:last").append(formattedgithub);
+	$(".connect-entry:last").append(formattedbehance);
+	$(".connect-entry:last").append(formattedinstagram);
 	$(".connect-entry:last").append(formattedlocation);
 }
 
@@ -583,9 +361,6 @@ displayBio();
 counter = 0;
 communication.display();
 counter = 0;
-work.display();
-counter = 0;
-educations.display();
 
 displayMenu();
 displayProjects();
